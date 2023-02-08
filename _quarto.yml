@@ -8,8 +8,8 @@ book:
   description: | 
     TBA
   #cover-image: images/cover.png
-  site-url: https://tutorials.thecoatlessprofessor.com/quarto-book-template
-  repo-url: https://github.com/coatless-tutorials/quarto-book-template
+  site-url: https://kaleidoscopic-donut-c248f7.netlify.app/
+  repo-url: https://github.com/merkede/quarto-book-template
   repo-branch: main
   repo-actions: [edit]
   sharing: [twitter, facebook, linkedin]
